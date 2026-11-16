@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Audio Editor
+
+**Embryo Audio Editor** is Embryo-Zero's fork of [audacity](https://github.com/audacity/audacity), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # Audacity
 
 [![Coverage](https://s3.us-east-1.amazonaws.com/extensions.musescore.org/test/code_coverage/au_coverage_badge.svg)](https://github.com/audacity/audacity/actions/workflows/au4_check_unit_tests.yml)
